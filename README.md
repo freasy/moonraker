@@ -35,6 +35,8 @@ The following projects deploy Moonraker via Docker:
 - [prind](https://github.com/mkuf/prind) by mkuf
   - A suite of containers which allow you to run Klipper in
     Docker.  Includes support for Octoprint and Moonraker.
+- [mainsail-docker](https://github.com/mainsail-crew/mainsail-docker) by un!t
+  - A complete stack including mainsail as the frontend, klipper and moonraker as a service, it features service restart, full updateable (only system updates require pulling a new docker image). Numpy and packages for adxl345 resonance functionality are also included and precompiled.
 
 ### Changes
 
